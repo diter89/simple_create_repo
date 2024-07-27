@@ -4,9 +4,9 @@ build-backend = "setuptools.build_meta"
 
 [tool.poetry]
 name = "simple_create_repo"
-version = "0.1.0"
+version = "1.1.1"
 description = "A Python library for creating GitHub repositories."
-authors = ["Your Name <you@example.com>"]
+authors = ["diter89ahmadchiper <typingoflist@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
